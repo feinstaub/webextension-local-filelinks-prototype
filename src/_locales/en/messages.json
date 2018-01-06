@@ -40,7 +40,6 @@
     "message": "Reveal link (open containing folder)",
     "description": "Radio caption for reveal setting"
   },
-  // notifications
   "ERROR_EXECTUBALES_NOT_ENABLED": {
     "message": "You're trying to open an executable file. Please check addon settings to enable executable files and try again.",
     "description": "Error message exe. not enabled"
@@ -49,12 +48,10 @@
     "message": "Couldn't open file",
     "description": "Error message bad link"
   },
-  //following text is prepared for future use with SMB (not working yet)
   "INFO_CONFIG_CHANGED_SMB": {
     "message": "Configuration changed! SMB links now enabled",
     "description": "Info message SMD links enabled (not used yet)"
   },
-  // labels
   "LABEL_CONTEXT_MENU_OPEN_LINK": {
     "message": "Open link",
     "description": "Context menu text"
@@ -63,7 +60,6 @@
     "message": "Open containing folder",
     "description": "Context menu text"
   },
-  // "Link addon" have to be kept in every language for the following labels
   "LABEL_CONTEXT_SUB_SELECTION_TITLE": {
     "message": "Link addon selection",
     "description": "Context menu text"
@@ -76,8 +72,7 @@
     "message": "Local link addon (current tab: %s)",
     "description": "Icon hover text active/inactive"
   },
-  // hover state toggles %s in LABEL_ADDONBAR_ICON_HOVER if active or inactive
-  "LABEL_ADDONBAR_HOVER_STATE_active": {
+   "LABEL_ADDONBAR_HOVER_STATE_active": {
     "message": "active",
     "description": "Icon hover text active"
   },
@@ -85,8 +80,7 @@
     "message": "inactive",
     "description": "Icon hover text inactive"
   },
-  // content script
-  "TOOLTIP_OPEN_FOLDER": {
+   "TOOLTIP_OPEN_FOLDER": {
     "message": "Open folder",
     "description": "tooltip text folder"
   },
